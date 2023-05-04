@@ -1,6 +1,4 @@
-# steganography# Who I am
-<!-- - Student ID: **H00404212** -->
-- Name: **Patson Emmanuel D Souza**
+# steganography
 # The Objective:
 The objective was to create a program to perform __steganography__. _Steganography is the practice of representing information within another message or physical object, in such a manner that the presence of the information is not evident to human inspection._
 This program is expected to be able to encode and decode secret messages within a PPM file.
